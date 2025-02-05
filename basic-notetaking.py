@@ -50,11 +50,26 @@
 
 
 # User Input
-name = input("what is your name: ")
-age = int(input("how old are you: "))
+# name = input("what is your name: ")
+# age = int(input("how old are you: "))
 
 
-age += 1
+# age += 1
 
-print(f"hello {name}")
-print(f"you are {age}")
+# print(f"hello {name}")
+# print(f"you are {age}")
+
+# Arithmetic operators
+
+# friend = 0
+# friends + 1
+# friends += 1
+# friends - 1
+# friends -= 1
+# friends / 2
+# friends /= 2
+# friends % 1
+# friends **= 1
+
+
+# Round
