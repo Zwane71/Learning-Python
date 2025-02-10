@@ -80,3 +80,12 @@
 # print(course.lower())
 
 # print(course.find('o'))
+
+#for Loops
+# for item in ['him', 'her','them']:
+#     print(item)
+
+#Nested loops
+for x in range(4):
+    for y in range(3):
+        print(f"({x}, {y})")
